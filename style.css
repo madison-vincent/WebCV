@@ -466,7 +466,7 @@ nav .fa-solid{
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
-    .contact-left p i{
+    .contact-left p{
         font-size: 14px;
     }
     .copyright{
