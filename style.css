@@ -299,7 +299,7 @@ nav ul li a:hover::after{
     padding: 15px 15px;
     background: linear-gradient(#ff846b, #e6d765);
     border-radius: 15px;
-    margin-bottom: 6%;
+    margin-bottom: 8%;
 }
 .contact-left{
     flex-basis: 35%;
@@ -309,8 +309,8 @@ nav ul li a:hover::after{
     margin-top:7%;
 }
 .contact-info{
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     border: 2px solid #9D2F76;
     border-radius: 15px;
 }
@@ -318,7 +318,7 @@ nav ul li a:hover::after{
     margin-top: 15px;
     margin-bottom: 15px;
     color: #2F309D;
-    font-size: 20px;
+    font-size: 16px;
 }
 .contact-left p i{
     color: #ff846b;
@@ -327,7 +327,7 @@ nav ul li a:hover::after{
     font-size: 25px;
 }
 .social-icons{
-    margin-top: 6%;
+    margin-top: 8%;
     margin-left: 30px;
 }
 .social-icons a{
